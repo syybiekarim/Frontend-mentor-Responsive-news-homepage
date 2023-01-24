@@ -171,14 +171,14 @@ p {
   border-bottom: 1px solid white;
 }
 
-#side-content-Titles {
+.side-content-Titles {
   color: hsl(36, 100%, 99%);
   font-size: 1.5rem;
   display: block;
   font-weight: bold;
 }
 
-#side-content-Titles:hover {
+.side-content-Titles:hover {
   color: hsl(35, 77%, 62%);
 }
 
